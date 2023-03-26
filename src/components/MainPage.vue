@@ -120,7 +120,7 @@
                     <div class="col-6 popular-articles-area-div-img">
                         <div class="w-100 ratio ratio-16x9"></div>
                     </div>
-                    <div class="col-6W popular-articles-area-div-img">
+                    <div class="col-6 popular-articles-area-div-img">
                         <div class="w-100 ratio ratio-16x9"></div>
                     </div>
                 </div>
