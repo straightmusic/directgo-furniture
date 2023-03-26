@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+/* tag */
+
+html, body, ul, li, p, h1, h2, h3, h4, h5, h6, img {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial;
+}
+
+/* font */
+
+@font-face {
+  font-family: "Arial";
+  src: url(./src/assets/font/Arial.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* color */
+.color-white {
+  color: white;
+}
+
+.bk-color-basic {
+  background: #4E4E4E;
+}
+
+/* margin */
+.m-5 {
+  margin: 5px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.m-15 {
+  margin: 15px;
+}
+
+.m-20 {
+  margin: 20px;
+}
+
+.m-b-5 {
+  margin-bottom: 5px;
+}
+
+/* padding */
+.p-15 {
+  padding: 15px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.p-30 {
+  padding: 30px;
+}
+
+/* width */
+.w-15 {
+  width: 15%;
+}
+
+.w-25 {
+  width: 25%;
+}
+
+.w-35 {
+  width: 35%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.object-fit-fill {
+  object-fit: fill;
+}
